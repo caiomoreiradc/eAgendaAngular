@@ -1,4 +1,4 @@
-# eAgenda
+# eAgenda Angular
 - Projeto da Academia do Programador 2023
   
 ## Screenshots
